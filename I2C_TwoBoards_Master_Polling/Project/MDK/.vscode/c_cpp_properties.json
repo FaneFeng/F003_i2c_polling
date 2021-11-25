@@ -3,7 +3,7 @@
         {
             "name": "I2C_TwoBoards_Master",
             "includePath": [
-                "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Examples\\I2C\\I2C_TwoBoards\\I2C_TwoBoards_Master - Polling\\Include",
+                "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Examples\\I2C\\I2C_TwoBoards\\I2C_TwoBoards_Master_Polling\\Include",
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Board",
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Library\\APM32F00x_StdPeriphDriver\\inc",
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Library\\CMSIS\\Include",
@@ -13,7 +13,7 @@
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Library\\Device\\Geehy\\APM32F00x\\Source",
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Library\\Device\\Geehy\\APM32F00x\\Source\\ARM",
                 "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Library\\APM32F00x_StdPeriphDriver\\src",
-                "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Examples\\I2C\\I2C_TwoBoards\\I2C_TwoBoards_Master - Polling\\Source"
+                "d:\\MCU\\Geehy\\F0xx\\APM32F00x_SDK_v1.2\\APM32F00x_SDK_v1.2\\Examples\\I2C\\I2C_TwoBoards\\I2C_TwoBoards_Master_Polling\\Source"
             ],
             "defines": [
                 "__CC_ARM",
