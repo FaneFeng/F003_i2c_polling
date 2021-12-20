@@ -1,0 +1,7 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Tools\MDK\Keil_v5\ARM\ARMCC\Bin'
+Build target 'I2C_TwoBoards_Master'
+compiling main.c...
+linking...
+Program Size: Code=2772 RO-data=244 RW-data=4 ZI-data=1700  
+".\Objects\I2C_TwoBoards_Master.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:00
